@@ -14,7 +14,6 @@ function action = set_pwm(device, pwm_value)
 % pwm_value = % Bound value to limits 0 to 4095
 
 %% Send Command
-% action = % string value of pwm_value
-% use the serialport() command options to change the PWM value to action
+This is not good code
 
 end
